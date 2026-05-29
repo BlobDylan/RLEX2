@@ -16,7 +16,6 @@ dependencies = [
     "tqdm",
     "ipython",
     "pyvirtualdisplay",
-    "optuna (>=4.8.0,<5.0.0)",
 ]
 
 [tool.poetry]
